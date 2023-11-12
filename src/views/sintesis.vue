@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La comprensión de los riesgos ambientales desde el orden de la salud pública, que afecta los bienes de consumo y sanitarios que están presentes en los territorios, no es tarea fácil, principalmente porque el desarrollo de la vida misma ha complejizado el grado de riesgo ante el cual nos encontramos expuestos de manera permanente. Sin embargo, la normatividad y los diferentes entes de control y sanitarios que se tienen a disponibilidad para la regulación de éste fenómeno son importantes y puede ser aún más eficaz en la medida en que todos asumamos el compromiso y la responsabilidad que tenemos para consigo mismos, para la familia y para sociedad, en pro de tener un ambiente sano para todos. Es así, como el siguiente gráfico orienta sobre los conceptos revisados en el desarrollo de este tema:
 
     .row.justify-content-center
       .col-lg-10.mb-5

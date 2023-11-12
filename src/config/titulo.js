@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Riesgos ambientales, del consumo y sanitarios según la salud pública'
