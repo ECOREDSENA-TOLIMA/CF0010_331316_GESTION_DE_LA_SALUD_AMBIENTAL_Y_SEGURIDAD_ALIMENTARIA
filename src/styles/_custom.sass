@@ -31,14 +31,21 @@
 .cajon.color-secundario,.cajon.color-secundario-c
   background-color: lighten($color-secundario, 8%)
 
+.cajon.color-acento-contenido-c
+  background-color: lighten($color-acento-contenido, 12%)
+
 .tarjeta.color-acento-contenido
   background-color: lighten($color-acento-contenido, 12%)
   
+.tarjeta.color-white
+  background-color: $white
+
+
 .tabla-b,.tabla-a
   tr.cabecera-a
-    background-color: $color-acento-contenido
+    background-color: lighten($color-secundario, 12%)
   .cabecera-b
-    background-color: $color-acento-contenido !important
+    background-color: lighten($color-secundario, 12%) !important
 
 .bloque-texto-d.color-primario::before
   background-color: lighten($color-primario, 13%) !important
@@ -101,6 +108,18 @@
 .BGIMG01
   border-radius: 15px
   background-image: url("../assets/curso/temas/fondo.png")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center  
+.BGIMG02
+  border-radius: 15px
+  background-image: url("../assets/curso/temas/fondo2.png")
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center  
+.BGIMG03
+  border-radius: 15px
+  background-image: url("../assets/curso/temas/fondo3.png")
   background-size: cover 
   background-repeat: no-repeat
   background-position: center  
