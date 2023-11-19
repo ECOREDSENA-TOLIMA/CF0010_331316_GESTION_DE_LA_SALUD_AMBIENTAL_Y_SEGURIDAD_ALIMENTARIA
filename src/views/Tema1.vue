@@ -719,10 +719,11 @@
             img(src='@/assets/curso/temas/tema1/slider-10.png' alt='')
         p Vehículos de transporte de alimentos. 
 
-    .row.align-items-center.mb-4(data-aos="fade-down-right")
-      .d-flex.titulo-h3
-        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
-        h3.mb-0.ms-3 Para este tipo de establecimientos están disponibles los siguientes tipos de formatos:
+    //- .row.align-items-center.mb-4(data-aos="fade-down-right")
+    //-   .d-flex.titulo-h3
+    //-     img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+    //-     h3.mb-0.ms-3 
+    p.mb-3(data-aos="fade-down") Para este tipo de establecimientos están disponibles los siguientes tipos de formatos:
 
     p.mb-5(data-aos="fade-down") Formulario de inscripción sanitaria para vehículos transportadores de alimentos y bebidas. El cual fue tomado como ejemplo de la secretaría de Salud de Santander, grupo de gestión de salud ambiental:
 
