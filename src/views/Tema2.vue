@@ -62,11 +62,11 @@
         figure
           img(src='@/assets/curso/temas/tema2/inf-2a.svg', alt='')
       .tarjeta.color-acento-contenido.p-3(x="50%" y="32%" numero="+")
-        h4 Favorable
-        p Se da un concepto sanitario favorable cuando el establecimiento se alinea con la totalidad de los requisitos sanitarios legales. El porcentaje de cumplimiento se ubica entre el 95 - 100 %.
-      .tarjeta.color-acento-contenido.p-3(x="27%" y="46%" numero="+")
         h4 Favorable con requerimientos
         p Se genera cuando se ha comprobado que el establecimiento no cumple con uno o varios de los criterios evaluados. Aplica en caso que el no cumplimiento, no afecte de manera directa la inocuidad del alimento o la bebida manipulada. Se debe consignar los hallazgos en el acta teniendo en cuenta el enfoque de riesgo que corresponda. El porcentaje de cumplimiento se ubica entre el 50 - 94 %.
+      .tarjeta.color-acento-contenido.p-3(x="27%" y="46%" numero="+")
+        h4 Favorable
+        p Se da un concepto sanitario favorable cuando el establecimiento se alinea con la totalidad de los requisitos sanitarios legales. El porcentaje de cumplimiento se ubica entre el 95 - 100 %.
       .tarjeta.color-acento-contenido.p-3(x="73%" y="46%" numero="+")
         h4 Desfavorable
         p Se genera cuando el establecimiento no cumple con los requisitos sanitarios legales. Debe aplicarse la medida sanitaria de seguridad necesaria, acorde con lo establecido en la Ley 09 de 1979, o aquella norma que la modifique, adicione o sustituya. Cuando se genere el concepto desfavorable para los expendios de bebidas alcohólicas, el concepto sanitario pendiente se da de acuerdo con el Decreto 1686 de 2012- Concepto sanitario pendiente (bebidas alcohólicas).

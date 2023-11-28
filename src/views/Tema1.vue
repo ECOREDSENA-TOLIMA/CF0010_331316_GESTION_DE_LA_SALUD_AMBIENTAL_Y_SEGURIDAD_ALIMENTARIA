@@ -642,14 +642,30 @@
             span.icon ✔ 
             | Código CIIU. Corresponde a la Clasificación Industrial Internacional Uniforme en donde se encuentran registradas todas las actividades económicas. Este código fue elaborado por la Organización de Naciones Unidas y la revisión 4 es una adaptación para Colombia hecha y revisada por el DANE. 
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+    //- .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
+    //-   .col-12.col-lg-10
+    //-     .row.cajon.color-acento-contenido-c.p-4
+    //-       .col-10.col-md-3.col-lg-2
+    //-         img(src='@/assets/curso/temas/tema1/tema1-24.png', alt='')
+    //-       .col-12.col-md-9.col-lg 
+    //-         p Le invitamos a consultar en el material complementario el correspondiente al #[b Código CIIU.]
+    //-         p.mb-0 Éste documento, amplia la información relacionada con la Clasificación Industrial Internacional Uniforme, que se encuentra alojado en la página web del #[b Departamento Administrativo Nacional de Estadística -DANE-.]
+
+    .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-12.col-lg-10
-        .row.cajon.color-acento-contenido-c.p-4
-          .col-10.col-md-3.col-lg-2
-            img(src='@/assets/curso/temas/tema1/tema1-24.png', alt='')
-          .col-12.col-md-9.col-lg 
-            p Le invitamos a consultar en el material complementario el correspondiente al #[b Código CIIU.]
-            p.mb-0 Éste documento, amplia la información relacionada con la Clasificación Industrial Internacional Uniforme, que se encuentra alojado en la página web del #[b Departamento Administrativo Nacional de Estadística -DANE-.]
+        .tarjeta.color-acento-contenido.p-3(data-aos="fade-down-right")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/tema1/tema1-24.png")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  //- h3.mb-1 Formato acta general inspección sanitaria
+                  p Con el fin de ampliar la información a la Clasificación Industrial Internacional Uniforme, Código CIIU, se hace extensiva la invitación a consultar la página web del Departamento Administrativo Nacional de estadística DANE.
+                .col-sm-auto
+                  a.boton.color-acento-botones.texto-blanco(href="https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen/normas-y-estandares/nomenclaturas-y-clasificaciones/clasificaciones/clasificacion-industrial-internacional-uniforme-de-todas-las-actividades-economicas-ciiu" target="_blank")
+                    span Enlace web
+                    i.fas.fa-file-code
 
     p.mb-5(data-aos="fade-down") Para que exista mayor claridad respecto al tipo de formato que se utiliza en la inscripción, se puede consultar el documento de Inscripción objeto de IVC Sanitaria, el cual fue tomado como ejemplo de la secretaría de salud de Santander:
 
@@ -1564,7 +1580,7 @@
               tr
                 td.text-start Acta de vigilancia sanitaria / Ley 1335 de 2009.
               tr.cabecera-a
-                td.text-start(rowspan="2") #[b Centros cuartelaríos. ]
+                td.text-start(rowspan="2") #[b Centros cuartelarios. ]
                 td.text-start Acta de batallones / Ley 9 de 1979 y Resolución 14861 de 1985.
               tr
                 td.text-start Acta de vigilancia sanitaria / Ley 1335 de 2009.

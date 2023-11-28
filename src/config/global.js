@@ -150,10 +150,10 @@ export default {
     {
       tema: '1. Intervenciones de gestión del riesgo',
       referencia:
-        'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA (s.f.). Formulario de inscripción sanitaria para vehículos transportadores de carne y productos cárnicos comestibles. Colombia.',
+        'Secretaria de Salud de Santander. (s.f). Formulario de inscripción sanitaria para vehículos transportadores de carne y productos cárnicos comestibles. Colombia.',
       tipo: 'Formato',
       link:
-        'https://www.invima.gov.co/documents/20143/1028921/FORMULARIO+DE+INSCRIPCION+VEHICULOS+TRANSPORTADORES+DE+CARNE.pdf/c3e32f76-09d5-15ed-55b7-070f2f8d8dfb?t=1555025622134',
+        'https://historico.santander.gov.co/intra/index.php/sig/viewdownload/1432-grupo-de-gestion-de-salud-ambiental/12940-formulario-de-inscripcion-sanitaria-para-vehiculos-transportadores-de-carne-y-productos-carnicos-comestibles',
     },
     {
       tema: '1. Intervenciones de gestión del riesgo',
@@ -166,10 +166,10 @@ export default {
     {
       tema: '1. Intervenciones de gestión del riesgo',
       referencia:
-        'Secretaría de Salud de Bogotá. (s.f.). Formulario de inscripción sanitaria para establecimientos de expendio y/o almacenamiento de carne y/o productos cárnicos comestibles.',
+        'Alcaldía de Santiago de Cali. (s.f.). Formulario de inscripción sanitaria para establecimientos de expendio y/o almacenamiento de carne y/o productos cárnicos comestibles.',
       tipo: 'Formato',
       link:
-        'http://www.saludcapital.gov.co/DSP/Paginas/Inscripcion_Establecimientos_Expendio_carnes.aspx',
+        'https://www.cali.gov.co/salud/publicaciones/44317/i_formulario_de_inscripcin_sanitaria_para_establecimientos_de_expendio_yo_almacenamiento_de_carne_y_productos_crnicos_comestibles/',
     },
     {
       tema: '1.1 Inspección sanitaria',
@@ -185,7 +185,7 @@ export default {
         'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA. (s.f.). Acta de toma de muestras.',
       tipo: 'Formato',
       link:
-        'https://www.invima.gov.co/documents/20143/1402493/15.+Acta+de+Toma+de+Muestra+para+ETS.pdf',
+        'https://www.dssa.gov.co/images/laboratorio_salud_publica/documentos/01_FO-M2-P5-102%20ACTA%20DE%20TOMA%20DE%20MUESTRAS%20ALIMENTOS.pdf',
     },
     {
       tema: '1.1 Inspección sanitaria <br> 1.2 Vigilancia sanitaria',
@@ -223,7 +223,7 @@ export default {
         'Ministerio del Medio Ambiente. Resolución 1164 de 06 de septiembre de 2002. ',
       tipo: 'Documento legal',
       link:
-        'https://www.ins.gov.co/BibliotecaDigital/Resolucion-1164-de-2002.pdf',
+        'https://www.mincit.gov.co/ministerio/normograma-sig/procesos-de-apoyo/gestion-de-recursos-fisicos/resoluciones/resolucion-1164-de-2002.aspx',
     },
     {
       tema: '2.3 Certificación y acreditación',
