@@ -1169,7 +1169,7 @@
           .col-10.col-md-3.col-lg-2
             img(src='@/assets/curso/temas/tema1/tema1-46.png', alt='')
           .col-12.col-md-9.col-lg 
-            p Los requerimientos establecidos por el INVIMA, para llevar a cabo la toma de muestras y que se encuentran indicados en el Manual de toma de muestras de alimentos y bebidas para entidades territoriales de salud. Versión 1.0, puede ser consultado en el material complementario, el cual podrá consultar bajo el nombre de #[b Requerimiento para la toma de muestras.]
+            p Los requerimientos establecidos por el INVIMA, para llevar a cabo la toma de muestras y que se encuentran indicados en el Manual de toma de muestras de alimentos y bebidas para entidades territoriales de salud. Versión 1.0, puede ser consultado en el material complementario.
 
     p.mb-4(data-aos="fade-down") Para que el procedimiento de la toma de la muestra se realice de manera exitosa, debe contarse con los implementos y equipos necesarios, los cuales se detallan a continuación:
 
@@ -1425,7 +1425,8 @@
           li
             span ✔ Notificación del acta. 
 
-    p.mb-5(data-aos="fade-down") Le invitamos a consultar en el material complementario el correspondiente a los #[b Formatos de uso en inspección, vigilancia y control sanitario:]
+    p.mb-5(data-aos="fade-down") Le invitamos a consultar los siguientes enlaces para que profundice en los formatos de uso en inspección, vigilancia y control sanitario: 
+    //- Le invitamos a consultar en el material complementario el correspondiente a los #[b Formatos de uso en inspección, vigilancia y control sanitario:]
 
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-12.col-lg-10

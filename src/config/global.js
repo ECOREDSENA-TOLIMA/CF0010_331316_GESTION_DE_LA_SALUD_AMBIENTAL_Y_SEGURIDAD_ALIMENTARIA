@@ -150,10 +150,10 @@ export default {
     {
       tema: '1. Intervenciones de gestión del riesgo',
       referencia:
-        'Secretaria de Salud de Santander. (s.f). Formulario de inscripción sanitaria para vehículos transportadores de carne y productos cárnicos comestibles. Colombia.',
+        'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA (s.f.). Formulario de inscripción sanitaria para vehículos transportadores de carne y productos cárnicos comestibles. Colombia.',
       tipo: 'Formato',
       link:
-        'https://historico.santander.gov.co/intra/index.php/sig/viewdownload/1432-grupo-de-gestion-de-salud-ambiental/12940-formulario-de-inscripcion-sanitaria-para-vehiculos-transportadores-de-carne-y-productos-carnicos-comestibles',
+        'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/http-appb-saludcapital-gov-co-sivigiladc-vehiculostranspcarne-frmsubmenuvehiculos-aspxopcionneworigenloginidtipo258n1780607729',
     },
     {
       tema: '1. Intervenciones de gestión del riesgo',
@@ -186,6 +186,14 @@ export default {
       tipo: 'Formato',
       link:
         'https://www.dssa.gov.co/images/laboratorio_salud_publica/documentos/01_FO-M2-P5-102%20ACTA%20DE%20TOMA%20DE%20MUESTRAS%20ALIMENTOS.pdf',
+    },
+    {
+      tema: '1.1 Inspección sanitaria',
+      referencia:
+        'Gobernación de Santander. Invima. (s.f.). Formulario de inscripción sanitaria para sujetos o establecimientos con actividades de almacenamiento, expendio, preparación y consumo de alimentos y bebidas. ',
+      tipo: 'Formato',
+      link:
+        'https://historico.santander.gov.co/intra/index.php/sig/viewdownload/1432-grupo-de-gestion-de-salud-ambiental/12936-formulario-de-inscripcion-sanitaria-para-sujetos-o-establecimientos-con-actividades-de-almacenamiento-expendio-preparacion-y-consumo-de-alimentos-y-bebidas',
     },
     {
       tema: '1.1 Inspección sanitaria <br> 1.2 Vigilancia sanitaria',
