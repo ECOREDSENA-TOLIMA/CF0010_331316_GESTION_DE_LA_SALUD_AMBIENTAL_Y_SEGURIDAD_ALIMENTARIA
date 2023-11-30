@@ -196,6 +196,14 @@ export default {
         'https://historico.santander.gov.co/intra/index.php/sig/viewdownload/1432-grupo-de-gestion-de-salud-ambiental/12936-formulario-de-inscripcion-sanitaria-para-sujetos-o-establecimientos-con-actividades-de-almacenamiento-expendio-preparacion-y-consumo-de-alimentos-y-bebidas',
     },
     {
+      tema: '1.1 Inspección sanitaria',
+      referencia:
+        'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA. (2015). <em>Manual de toma de muestras de alimentos y bebidas para entidades territoriales de salud. Versión 1.0.</em> ',
+      tipo: 'Otro',
+      link:
+        'https://docplayer.es/181212373-Manual-de-toma-de-muestras-de-alimentos-y-bebidas-para-entidades-territoriales-de-salud-version-1-0.html',
+    },
+    {
       tema: '1.1 Inspección sanitaria <br> 1.2 Vigilancia sanitaria',
       referencia: 'Congreso de Colombia. Ley 9 de enero 24 de 1979.',
       tipo: 'Documento legal',
