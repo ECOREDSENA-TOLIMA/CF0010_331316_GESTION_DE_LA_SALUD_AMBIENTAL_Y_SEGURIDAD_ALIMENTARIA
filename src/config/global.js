@@ -174,6 +174,14 @@ export default {
     {
       tema: '1.1 Inspección sanitaria',
       referencia:
+        'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA. (2015). Manual de toma de muestras de alimentos y bebidas para entidades territoriales de salud. Versión 1.0.',
+      tipo: 'Otro',
+      link:
+        'https://www.ibague.gov.co/portal/admin/archivos/publicaciones/2018/21857-DOC-20181009.pdf',
+    },
+    {
+      tema: '1.1 Inspección sanitaria',
+      referencia:
         'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA. (2015). Manual de inspección, vigilancia y control sanitario de alimentos y bebidas basado en riesgo para las entidades territoriales de salud versión 1.0.',
       tipo: 'Documento',
       link:
@@ -181,8 +189,7 @@ export default {
     },
     {
       tema: '1.1 Inspección sanitaria',
-      referencia:
-        'Instituto Nacional de vigilancia de medicamentos y alimentos - INVIMA. (s.f.). Acta de toma de muestras.',
+      referencia: 'Gobernación de Antioquía (s.f.). Acta de toma de muestras ',
       tipo: 'Formato',
       link:
         'https://www.dssa.gov.co/images/laboratorio_salud_publica/documentos/01_FO-M2-P5-102%20ACTA%20DE%20TOMA%20DE%20MUESTRAS%20ALIMENTOS.pdf',

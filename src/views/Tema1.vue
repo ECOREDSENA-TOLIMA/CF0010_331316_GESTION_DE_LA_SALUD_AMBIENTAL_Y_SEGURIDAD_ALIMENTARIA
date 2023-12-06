@@ -1649,7 +1649,7 @@
                   h3.mb-1 Formato de acta de destrucción
                   p Para ampliar la información se invita a leer el documento de la Secretaria de Salud de Santander.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://historico.santander.gov.co/intra/index.php/antico/viewdownload/530-formatos/10073-acta-general-de-inspeccion-vigilancia-y-control-sanitario" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://historico.santander.gov.co/intra/index.php/antico/viewdownload/527-formatos/6432-acta-de-visita-de-destruccion-objetos-y-o-productos" target="_blank")
                     span Enlace web
                     i.fas.fa-file-code
 
